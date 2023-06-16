@@ -51,18 +51,24 @@ http://localhost/Banking-System/mainpage.php
 
 ## Screenshots
 - Main Page
-![1.ng](https://images.zenhubusercontent.com/642d1d4c0d7076005c87250b/c9ff5f66-23e8-4870-a302-1b963b5c0fa7)
-![main2.png](https://images.zenhubusercontent.com/642d1d4c0d7076005c87250b/39cb82a6-8c7e-4be9-a5c4-03316d8e772d)
-![main3.png](https://images.zenhubusercontent.com/642d1d4c0d7076005c87250b/0341329c-b3e3-47a2-9a9d-af0297734f7a)
+![1.png](<img width="1470" alt="Screenshot 2023-06-16 at 12 21 32 PM" src="https://github.com/Aditya10CR7/Bank/assets/89736941/67cddfbd-247f-4a86-909a-7810d2f5baba">)
+![2.png](<img width="1470" alt="2" src="https://github.com/Aditya10CR7/Bank/assets/89736941/40badc82-5f1c-4174-a4ae-030882b2a2d0">
+)
+![3.png](<img width="1470" alt="3" src="https://github.com/Aditya10CR7/Bank/assets/89736941/a00bf9e7-70d9-40b0-815e-e9a11687b7e4">
+)
 
 - Customer Page
-![customer.png](https://images.zenhubusercontent.com/642d1d4c0d7076005c87250b/2a31ac5c-4217-4078-85fe-235689eda632)
+![4.png](<img width="1470" alt="4" src="https://github.com/Aditya10CR7/Bank/assets/89736941/ab5e04cc-3a1a-4b88-bb6c-fcdedd3a262d">
+)
 
 - Transaction Page
-![transaction.png](https://images.zenhubusercontent.com/642d1d4c0d7076005c87250b/14274c58-7775-477d-8491-df5e7f24eef2)
+![5.png](<img width="1470" alt="5" src="https://github.com/Aditya10CR7/Bank/assets/89736941/4e290dba-f1ed-40b5-89ec-7b40c08d9255">
+)
 
 - On successfull transaction  
-![transaction success.png](https://images.zenhubusercontent.com/642d1d4c0d7076005c87250b/5169cbdc-7eaa-41e0-a87f-c98c16376e52)
+![6.png](<img width="448" alt="6" src="https://github.com/Aditya10CR7/Bank/assets/89736941/d89c7af7-8e34-46d9-b611-f11f6c6e2ee0">
+)
 
 - Transaction history
-![transaction history.png](https://images.zenhubusercontent.com/642d1d4c0d7076005c87250b/7928bdbe-a636-4963-961c-677a051cbc3a)
+![7.png](<img width="1470" alt="7" src="https://github.com/Aditya10CR7/Bank/assets/89736941/c254d549-aedf-4fa3-adcd-00d7d365d37b">
+)
