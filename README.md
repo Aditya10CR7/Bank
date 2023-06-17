@@ -53,24 +53,19 @@ http://localhost/Banking-System/mainpage.php
 - Main Page
 - <img width="1470" alt="1" src="https://github.com/Aditya10CR7/Bank/assets/89736941/9d52eaf0-0756-4103-82d8-d1f629fd4f8c">
 <img width="1470" alt="2" src="https://github.com/Aditya10CR7/Bank/assets/89736941/8ccd2bcc-9d2e-44d7-ab0e-a5a5df568a41">
+<img width="1470" alt="Screenshot 2023-06-16 at 12 21 56 PM" src="https://github.com/Aditya10CR7/Bank/assets/89736941/12c0e86b-0ad2-4993-9312-a7819c8259c6">
 
-
-
-![3.png](<img width="1470" alt="3" src="https://github.com/Aditya10CR7/Bank/assets/89736941/a00bf9e7-70d9-40b0-815e-e9a11687b7e4">
-)
 
 - Customer Page
-![4.png](<img width="1470" alt="4" src="https://github.com/Aditya10CR7/Bank/assets/89736941/ab5e04cc-3a1a-4b88-bb6c-fcdedd3a262d">
-)
+- <img width="1470" alt="Screenshot 2023-06-16 at 12 22 11 PM" src="https://github.com/Aditya10CR7/Bank/assets/89736941/05684bae-eeea-4183-a9f5-600f2adf8474">
+
 
 - Transaction Page
-![5.png](<img width="1470" alt="5" src="https://github.com/Aditya10CR7/Bank/assets/89736941/4e290dba-f1ed-40b5-89ec-7b40c08d9255">
-)
+<img width="1470" alt="Screenshot 2023-06-16 at 12 22 30 PM" src="https://github.com/Aditya10CR7/Bank/assets/89736941/e0451d28-ac09-482b-847e-f9a627ab96fe">
 
 - On successfull transaction  
-![6.png](<img width="448" alt="6" src="https://github.com/Aditya10CR7/Bank/assets/89736941/d89c7af7-8e34-46d9-b611-f11f6c6e2ee0">
-)
+<img width="448" alt="Screenshot 2023-06-16 at 12 23 08 PM" src="https://github.com/Aditya10CR7/Bank/assets/89736941/a6c8b638-74a0-4721-9b4f-fc8a349040fb">
 
 - Transaction history
-![7.png](<img width="1470" alt="7" src="https://github.com/Aditya10CR7/Bank/assets/89736941/c254d549-aedf-4fa3-adcd-00d7d365d37b">
-)
+<img width="1470" alt="Screenshot 2023-06-16 at 12 23 53 PM" src="https://github.com/Aditya10CR7/Bank/assets/89736941/335920e8-3b2d-498e-82af-e7bd97cf7b94">
+
