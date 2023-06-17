@@ -51,9 +51,11 @@ http://localhost/Banking-System/mainpage.php
 
 ## Screenshots
 - Main Page
-![1.png](<img width="1470" alt="Screenshot 2023-06-16 at 12 21 32 PM" src="https://github.com/Aditya10CR7/Bank/assets/89736941/67cddfbd-247f-4a86-909a-7810d2f5baba">)
-![2.png](<img width="1470" alt="2" src="https://github.com/Aditya10CR7/Bank/assets/89736941/40badc82-5f1c-4174-a4ae-030882b2a2d0">
-)
+- <img width="1470" alt="1" src="https://github.com/Aditya10CR7/Bank/assets/89736941/9d52eaf0-0756-4103-82d8-d1f629fd4f8c">
+<img width="1470" alt="2" src="https://github.com/Aditya10CR7/Bank/assets/89736941/8ccd2bcc-9d2e-44d7-ab0e-a5a5df568a41">
+
+
+
 ![3.png](<img width="1470" alt="3" src="https://github.com/Aditya10CR7/Bank/assets/89736941/a00bf9e7-70d9-40b0-815e-e9a11687b7e4">
 )
 
