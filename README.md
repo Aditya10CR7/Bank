@@ -51,13 +51,13 @@ http://localhost/Banking-System/mainpage.php
 
 ## Screenshots
 - Main Page
-- <img width="1470" alt="1" src="https://github.com/Aditya10CR7/Bank/assets/89736941/9d52eaf0-0756-4103-82d8-d1f629fd4f8c">
+<img width="1470" alt="1" src="https://github.com/Aditya10CR7/Bank/assets/89736941/9d52eaf0-0756-4103-82d8-d1f629fd4f8c">
 <img width="1470" alt="2" src="https://github.com/Aditya10CR7/Bank/assets/89736941/8ccd2bcc-9d2e-44d7-ab0e-a5a5df568a41">
 <img width="1470" alt="Screenshot 2023-06-16 at 12 21 56 PM" src="https://github.com/Aditya10CR7/Bank/assets/89736941/12c0e86b-0ad2-4993-9312-a7819c8259c6">
 
 
 - Customer Page
-- <img width="1470" alt="Screenshot 2023-06-16 at 12 22 11 PM" src="https://github.com/Aditya10CR7/Bank/assets/89736941/05684bae-eeea-4183-a9f5-600f2adf8474">
+<img width="1470" alt="Screenshot 2023-06-16 at 12 22 11 PM" src="https://github.com/Aditya10CR7/Bank/assets/89736941/05684bae-eeea-4183-a9f5-600f2adf8474">
 
 
 - Transaction Page
